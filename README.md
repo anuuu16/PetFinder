@@ -1,3 +1,5 @@
 # PetFinder
 
-https://hub.mybinder.org/user/anuuu16-petfinder-sda7p2gu/notebooks/dataExploration.ipynb
+https://mybinder.org/v2/gh/anuuu16/PetFinder/master
+
+https://hub.mybinder.org/user/anuuu16-petfinder-7hevzf3i/tree
