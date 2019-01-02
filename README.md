@@ -1,3 +1,3 @@
 # PetFinder
 
-https://mybinder.org/v2/gh/anuuu16/PetFinder.git/master?filepath=dataExploration
+https://hub.mybinder.org/user/anuuu16-petfinder-sda7p2gu/notebooks/dataExploration.ipynb
